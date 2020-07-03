@@ -1,0 +1,10 @@
+github.com/fsgo/mod1 v1.0.0 h1:KTtquX02+JXgo/eexHQ7SxfgG+6TLcCQ+CguSqSHDEk=
+github.com/fsgo/mod1 v1.0.0/go.mod h1:DMc/LSR1BdeslQ3ieeBNhQjxiZY2GiMFgDDSntO58y4=
+github.com/fsgo/mod1 v1.0.1 h1:cCZOuLnc/2Ll7q90Cg1B9MZXQbW8rsczuSPZGKKbfXA=
+github.com/fsgo/mod1 v1.0.1/go.mod h1:DMc/LSR1BdeslQ3ieeBNhQjxiZY2GiMFgDDSntO58y4=
+github.com/fsgo/mod1 v1.0.2 h1:2RGz4ggriyLUX+BK2I5AJL0E7uuJoAPRN+djI0Y+zyw=
+github.com/fsgo/mod1 v1.0.2/go.mod h1:+ekeCvf7jgw8xBAv/QEKMBbfJHbDD76FkoIqF2G2jWM=
+github.com/fsgo/mod2 v1.0.0 h1:YQCCwXLUGlJu8RuinnDugW7H4oVXGwISkfmoPGMa/MM=
+github.com/fsgo/mod2 v1.0.0/go.mod h1:b9kjvyJGlH7okOeng0i/nWZAcBtoMrTslk8oVXQN1VE=
+github.com/fsgo/mod3 v1.0.1 h1:PlRtgqftiDIu1pgJy5TsrnmxYpHcJup5DirTHlQcEZU=
+github.com/fsgo/mod3 v1.0.1/go.mod h1:KHinUwPhFubMd/aaxXJ7N2F1ff8z3q3qF8j1LDLR7QQ=
