@@ -9,7 +9,7 @@ package main
 import (
 	"flag"
 
-	"fsgo/mod4/internal"
+	"github.com/fsgo/mod4/internal"
 )
 
 var msg = flag.String("msg", "hello", "")

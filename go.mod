@@ -1,4 +1,4 @@
-module fsgo/mod4
+module github.com/fsgo/mod4
 
 go 1.14
 
