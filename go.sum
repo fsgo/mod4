@@ -6,5 +6,5 @@ github.com/fsgo/mod1 v1.0.2 h1:2RGz4ggriyLUX+BK2I5AJL0E7uuJoAPRN+djI0Y+zyw=
 github.com/fsgo/mod1 v1.0.2/go.mod h1:+ekeCvf7jgw8xBAv/QEKMBbfJHbDD76FkoIqF2G2jWM=
 github.com/fsgo/mod2 v1.0.0 h1:YQCCwXLUGlJu8RuinnDugW7H4oVXGwISkfmoPGMa/MM=
 github.com/fsgo/mod2 v1.0.0/go.mod h1:b9kjvyJGlH7okOeng0i/nWZAcBtoMrTslk8oVXQN1VE=
-github.com/fsgo/mod3 v1.0.1 h1:PlRtgqftiDIu1pgJy5TsrnmxYpHcJup5DirTHlQcEZU=
-github.com/fsgo/mod3 v1.0.1/go.mod h1:KHinUwPhFubMd/aaxXJ7N2F1ff8z3q3qF8j1LDLR7QQ=
+github.com/fsgo/mod3 v1.0.2 h1:2szvN8Io3494TdjG1tRiFpeBVtsCkpPdPoxEjktvv50=
+github.com/fsgo/mod3 v1.0.2/go.mod h1:KHinUwPhFubMd/aaxXJ7N2F1ff8z3q3qF8j1LDLR7QQ=
